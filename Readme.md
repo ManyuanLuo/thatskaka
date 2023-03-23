@@ -6,7 +6,9 @@
 ## ⚙️Technique
 
 ![](https://img.shields.io/badge/Skills-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Skills-Microsoft Suits-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Skills-Business Analysis-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ## 👩🏻‍🎓About Me
