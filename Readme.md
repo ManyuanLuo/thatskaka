@@ -6,8 +6,8 @@
 ## ⚙️Technique
 
 ![](https://img.shields.io/badge/Skills-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Skills-Microsoft Suits-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Skills-Business Analysis-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Skills-MicrosoftSuits-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Skills-BusinessAnalysis-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ## 👩🏻‍🎓About Me
 During the first semester at Columbia University, I studied different languages in Machine Learning and applied them to the ‘Quantilope’ project (data extraction, visualization, and analysis). 
