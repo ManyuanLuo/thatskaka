@@ -2,8 +2,8 @@
 
 😀 My name is Manyuan Luo, but feel free to call me Kaka.  
 📚 I'm currently studying at the graduate school in Columbia University.  
-I graduated from Cornell University with a concentration in Public Administration(MPA);   
-I had a bachelor's degree at Nanjing University (China) studying German and an exchange year at Georg-August Göttingen in Germany
+📚 I graduated from Cornell University with a concentration in Public Administration(MPA);   
+📚 I had a bachelor's degree at Nanjing University (China) studying German and an exchange year at Georg-August Göttingen in Germany
 
 ## ⚙️Technique
 
